@@ -10,4 +10,6 @@ int func()
 {
     printf("master func\n");
     printf("main test\n");
+    printf("main test");
+    printf("meger\n");
 }

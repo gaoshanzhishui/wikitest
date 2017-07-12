@@ -8,5 +8,5 @@ int main(int argc, char **argv)
 int func()
 {
     printf("master func\n");
-    printf("main test");
+    printf("main test\n");
 }
